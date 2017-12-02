@@ -1,6 +1,7 @@
 runtime: python27
 api_version: 1
 threadsafe: true
+app_start_timeout_sec:1500
 
 handlers:
 - url: /.*
